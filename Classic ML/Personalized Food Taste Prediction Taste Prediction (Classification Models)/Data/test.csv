@@ -1,0 +1,1793 @@
+age,sleep_cycle,exercise_habits,climate_zone,historical_cuisine_exposure
+,Night Owl,Light,Tropical,Asian
+44.0,Irregular,Light,Cold,Mixed
+23.0,Irregular,Heavy,Tropical,Mediterranean
+38.0,Night Owl,Moderate,Cold,Mediterranean
+54.0,Night Owl,Heavy,,Asian
+58.0,Irregular,Light,Tropical,Mediterranean
+,Early Bird,Heavy,Cold,Mixed
+54.0,Night Owl,Moderate,Tropical,Asian
+66.0,Night Owl,Moderate,Tropical,Mixed
+68.0,Early Bird,Light,Cold,Mixed
+21.0,Early Bird,Moderate,Temperate,Asian
+20.0,Irregular,Light,Temperate,Mediterranean
+18.0,Night Owl,Light,Cold,Asian
+32.0,Night Owl,Heavy,Temperate,Mediterranean
+,Night Owl,Heavy,Dry,Mixed
+48.0,Night Owl,Light,Cold,Mediterranean
+,Night Owl,Moderate,Temperate,Mediterranean
+27.0,Early Bird,Light,Temperate,Mediterranean
+21.0,Irregular,Light,Tropical,Mediterranean
+61.0,Night Owl,,Temperate,Mixed
+32.0,Early Bird,Moderate,Temperate,Mediterranean
+60.0,Irregular,Moderate,Temperate,
+28.0,Night Owl,Moderate,Tropical,Mediterranean
+18.0,Early Bird,Light,Tropical,Mediterranean
+44.0,Night Owl,Moderate,Dry,Mediterranean
+61.0,Irregular,Heavy,Cold,Mediterranean
+46.0,Early Bird,Light,Temperate,
+18.0,Night Owl,Heavy,Dry,Mixed
+26.0,Irregular,Heavy,,Mixed
+,Night Owl,Heavy,Tropical,Mixed
+65.0,Early Bird,Moderate,Cold,Asian
+26.0,Irregular,Moderate,Cold,Mediterranean
+40.0,Night Owl,Light,Dry,Mixed
+37.0,Early Bird,,Temperate,Asian
+59.0,Irregular,Heavy,Tropical,Mixed
+52.0,Early Bird,Light,Dry,Mixed
+,,Heavy,,Mediterranean
+23.0,,Moderate,,Mediterranean
+28.0,Early Bird,Light,Dry,Mediterranean
+39.0,Irregular,Heavy,,Asian
+22.0,Night Owl,Moderate,Cold,Asian
+,Early Bird,Heavy,Dry,Mixed
+68.0,Night Owl,Light,Tropical,Mediterranean
+39.0,Irregular,Light,Dry,Asian
+68.0,Early Bird,Moderate,Cold,Mixed
+69.0,Irregular,Heavy,Temperate,Mediterranean
+31.0,Night Owl,Heavy,Dry,Mixed
+61.0,Early Bird,Light,Tropical,Mediterranean
+66.0,Night Owl,Moderate,Dry,Asian
+67.0,Irregular,Light,Temperate,Mediterranean
+41.0,Night Owl,Heavy,,Asian
+22.0,Early Bird,Light,Tropical,Asian
+62.0,Night Owl,Heavy,Cold,Mediterranean
+25.0,Early Bird,Light,Tropical,Mixed
+67.0,Night Owl,Light,Tropical,Mixed
+63.0,Night Owl,Heavy,Temperate,Asian
+30.0,Early Bird,Light,Dry,Mediterranean
+19.0,Night Owl,Heavy,Tropical,Mediterranean
+,Irregular,Moderate,Cold,Mixed
+30.0,Irregular,Moderate,Cold,Mixed
+68.0,Early Bird,Heavy,Dry,Mediterranean
+41.0,Night Owl,Heavy,Temperate,Mixed
+45.0,Irregular,Moderate,Dry,Mixed
+61.0,Night Owl,Heavy,Dry,Mediterranean
+55.0,Irregular,Light,Dry,Mediterranean
+69.0,Early Bird,Moderate,Tropical,Mediterranean
+21.0,Irregular,Heavy,Temperate,Mixed
+50.0,Irregular,Light,Cold,Mediterranean
+62.0,Night Owl,Light,Temperate,Mixed
+65.0,,Heavy,,Mixed
+45.0,Night Owl,Light,Temperate,Asian
+19.0,Early Bird,,Dry,Mediterranean
+63.0,Irregular,Heavy,,Asian
+62.0,Early Bird,Light,Tropical,Asian
+45.0,Early Bird,Moderate,Temperate,Mediterranean
+45.0,Irregular,Light,Dry,Asian
+18.0,Early Bird,Light,Temperate,Mixed
+36.0,Irregular,Heavy,Cold,Mediterranean
+58.0,Night Owl,Light,Dry,Mixed
+41.0,Early Bird,Moderate,Dry,
+37.0,Early Bird,Heavy,Tropical,Asian
+43.0,Night Owl,Heavy,Tropical,Mediterranean
+53.0,Night Owl,Moderate,Dry,Asian
+,Night Owl,Light,Tropical,Mixed
+45.0,Irregular,,Dry,Mixed
+29.0,Night Owl,Light,Cold,Asian
+60.0,Night Owl,Moderate,Dry,Asian
+30.0,Irregular,Light,Dry,Asian
+27.0,Early Bird,Moderate,Tropical,Mediterranean
+34.0,Night Owl,,Tropical,Mediterranean
+59.0,,Moderate,Dry,Mixed
+49.0,Irregular,Heavy,Temperate,Mixed
+53.0,Early Bird,Light,Dry,Mediterranean
+41.0,Night Owl,Moderate,Cold,Mixed
+47.0,Night Owl,Light,Temperate,Mixed
+29.0,Early Bird,Light,Tropical,Asian
+60.0,Early Bird,Light,Dry,Mixed
+20.0,Early Bird,Moderate,Cold,Mixed
+67.0,Irregular,Moderate,Cold,Asian
+,Early Bird,Heavy,Dry,Asian
+51.0,Night Owl,Heavy,Dry,Asian
+60.0,Early Bird,Light,Cold,Asian
+66.0,Night Owl,Light,Dry,Mixed
+35.0,Irregular,Moderate,Temperate,Asian
+58.0,Irregular,Light,Temperate,Mediterranean
+40.0,Early Bird,Moderate,Cold,Mediterranean
+36.0,Night Owl,Light,Temperate,Mediterranean
+36.0,Night Owl,Light,Cold,Mixed
+29.0,,Moderate,Temperate,Asian
+22.0,,Moderate,Cold,Asian
+34.0,Early Bird,Light,Dry,Mixed
+60.0,Night Owl,,Cold,Mediterranean
+34.0,Irregular,Moderate,Dry,
+67.0,Early Bird,Heavy,Temperate,Mediterranean
+25.0,Night Owl,Moderate,Temperate,Mediterranean
+65.0,Irregular,Moderate,Temperate,Mediterranean
+27.0,Night Owl,Light,Temperate,Mediterranean
+50.0,Early Bird,Heavy,Temperate,
+58.0,Early Bird,,Temperate,Mediterranean
+66.0,Irregular,Moderate,Temperate,Mediterranean
+53.0,Early Bird,Light,Cold,Mixed
+57.0,Early Bird,,Dry,Asian
+66.0,Irregular,,Temperate,Asian
+35.0,Night Owl,,Cold,Mediterranean
+47.0,,Light,Dry,Asian
+43.0,Early Bird,Heavy,,
+62.0,Irregular,,Tropical,Mixed
+21.0,Irregular,Light,Tropical,Mixed
+24.0,Irregular,Heavy,Tropical,Mixed
+30.0,Early Bird,Light,Cold,Asian
+29.0,Night Owl,Light,Temperate,Mixed
+67.0,Early Bird,Moderate,Tropical,
+62.0,Night Owl,Heavy,Tropical,Mediterranean
+60.0,Irregular,Heavy,Dry,Mixed
+59.0,Early Bird,Light,Dry,Mediterranean
+41.0,Early Bird,Moderate,Cold,Mixed
+56.0,Night Owl,Light,Temperate,Mixed
+32.0,Night Owl,Light,Cold,Asian
+24.0,Irregular,Moderate,,Mixed
+45.0,Irregular,Heavy,Dry,Asian
+41.0,Irregular,Light,Temperate,
+,Irregular,Moderate,Tropical,Mediterranean
+,Irregular,Heavy,Dry,Mixed
+37.0,Early Bird,Light,Dry,Mediterranean
+37.0,Early Bird,Moderate,Dry,Mediterranean
+59.0,Night Owl,Heavy,Cold,Mediterranean
+62.0,Night Owl,Heavy,Temperate,Asian
+40.0,Early Bird,Heavy,Temperate,Asian
+19.0,Night Owl,Moderate,Dry,Asian
+43.0,Irregular,Heavy,Cold,Mediterranean
+24.0,Night Owl,Light,Dry,Mixed
+60.0,Irregular,,Dry,Asian
+57.0,Irregular,Heavy,Dry,
+44.0,Irregular,Moderate,Tropical,Asian
+67.0,Early Bird,Light,,Mixed
+29.0,Irregular,Light,Tropical,Mediterranean
+42.0,Night Owl,Light,Tropical,Asian
+32.0,Early Bird,,Cold,Asian
+34.0,Night Owl,Moderate,Tropical,Mixed
+61.0,Night Owl,Light,Cold,Mediterranean
+47.0,Night Owl,Heavy,Cold,Asian
+18.0,Night Owl,Light,Cold,Mixed
+54.0,Early Bird,,Cold,Asian
+25.0,Night Owl,,Tropical,Mixed
+26.0,Night Owl,Moderate,Tropical,Mixed
+31.0,Early Bird,Heavy,Dry,Mediterranean
+69.0,Night Owl,,Cold,Asian
+33.0,,Light,Temperate,
+43.0,Irregular,Heavy,Cold,Asian
+51.0,Night Owl,Moderate,Tropical,Mediterranean
+36.0,Night Owl,Heavy,Temperate,
+48.0,Irregular,Moderate,Cold,Mixed
+,Early Bird,Light,Tropical,Asian
+58.0,Irregular,Light,,Mixed
+62.0,Early Bird,Light,Temperate,Mediterranean
+65.0,Early Bird,Moderate,Cold,Mediterranean
+54.0,Irregular,Heavy,Dry,Mixed
+53.0,Irregular,,Dry,
+62.0,Night Owl,,,Mediterranean
+56.0,Early Bird,Moderate,Tropical,Asian
+54.0,Irregular,Light,,Asian
+66.0,Irregular,Light,Tropical,Mixed
+,Irregular,Heavy,Tropical,Mediterranean
+59.0,Early Bird,Light,Tropical,Mediterranean
+43.0,Early Bird,Moderate,Cold,Mediterranean
+29.0,Irregular,Light,Dry,Mixed
+69.0,Night Owl,Heavy,Tropical,Asian
+37.0,Early Bird,Moderate,Temperate,Asian
+62.0,,Light,Temperate,Mixed
+28.0,Early Bird,Light,Tropical,Mediterranean
+52.0,Night Owl,Light,Dry,
+30.0,Early Bird,Light,Dry,Asian
+45.0,Early Bird,Moderate,Temperate,Mixed
+53.0,Irregular,Light,Temperate,Mixed
+59.0,Night Owl,Light,,Asian
+34.0,,Light,Temperate,Asian
+57.0,Irregular,Light,Tropical,Asian
+33.0,Night Owl,Heavy,Temperate,Asian
+56.0,Early Bird,Moderate,Dry,Mediterranean
+37.0,Irregular,Heavy,,Mixed
+40.0,Early Bird,,Dry,Mediterranean
+65.0,Early Bird,,Cold,Mediterranean
+47.0,Night Owl,Light,Cold,Asian
+52.0,Irregular,Moderate,Dry,Mediterranean
+41.0,Early Bird,Moderate,Temperate,Asian
+41.0,Early Bird,Heavy,Tropical,Mixed
+43.0,Night Owl,Moderate,,Mediterranean
+41.0,Night Owl,Moderate,Dry,Mixed
+51.0,Irregular,Moderate,Temperate,Asian
+47.0,Night Owl,Heavy,Temperate,Mixed
+43.0,Night Owl,Heavy,Dry,Asian
+19.0,Early Bird,Moderate,,Mediterranean
+59.0,,Light,Dry,Asian
+29.0,Irregular,Moderate,Tropical,Asian
+33.0,Irregular,,Temperate,Mixed
+34.0,Irregular,Moderate,Temperate,Mixed
+60.0,Early Bird,Heavy,Cold,Mediterranean
+19.0,Night Owl,,Tropical,Asian
+,Night Owl,Heavy,Temperate,Mixed
+25.0,Early Bird,Moderate,Cold,Mixed
+61.0,Irregular,Light,Tropical,Mixed
+56.0,Night Owl,Light,Temperate,Mediterranean
+33.0,,,Tropical,
+33.0,Early Bird,Heavy,Cold,Mixed
+62.0,Irregular,Moderate,Dry,Asian
+50.0,Early Bird,Heavy,Cold,Mixed
+65.0,Night Owl,Moderate,Temperate,Mediterranean
+18.0,Night Owl,Light,Dry,Mediterranean
+49.0,Early Bird,,Temperate,Mixed
+40.0,Early Bird,Light,Dry,Mixed
+40.0,Early Bird,Heavy,Temperate,Mixed
+52.0,Night Owl,Heavy,Cold,Mediterranean
+37.0,Night Owl,Moderate,Dry,Asian
+58.0,Night Owl,Light,,Asian
+31.0,Irregular,Light,Temperate,Mixed
+44.0,,Moderate,Cold,Mixed
+31.0,Early Bird,Light,Tropical,Asian
+46.0,Night Owl,,Tropical,
+68.0,Early Bird,Moderate,Dry,Mediterranean
+55.0,Irregular,Heavy,Tropical,Mixed
+47.0,Irregular,,Temperate,Mixed
+60.0,Early Bird,Heavy,Dry,Asian
+49.0,Early Bird,,Dry,Asian
+41.0,Early Bird,Light,Tropical,Asian
+64.0,Irregular,,Dry,Asian
+25.0,Night Owl,Moderate,,Asian
+68.0,Irregular,Heavy,Tropical,Mediterranean
+62.0,,Light,Dry,Mediterranean
+58.0,Night Owl,Heavy,Dry,Mixed
+55.0,Irregular,Moderate,Tropical,Mixed
+25.0,Early Bird,Moderate,Dry,
+61.0,Early Bird,Light,Dry,Asian
+26.0,Early Bird,Moderate,Dry,Mediterranean
+26.0,,Moderate,Cold,Asian
+68.0,Night Owl,Moderate,Cold,Asian
+,,Light,Cold,Mediterranean
+48.0,Early Bird,Moderate,Dry,Asian
+25.0,Irregular,Light,Tropical,Mediterranean
+36.0,Early Bird,Moderate,Tropical,Asian
+,Night Owl,Moderate,Dry,Asian
+44.0,Night Owl,Light,Dry,Asian
+21.0,Early Bird,Light,Cold,Mediterranean
+62.0,Early Bird,Heavy,Dry,Asian
+26.0,,Light,Tropical,Mixed
+55.0,Night Owl,Moderate,Cold,Mediterranean
+46.0,Night Owl,Heavy,Cold,Asian
+,Early Bird,,Tropical,Mixed
+35.0,Early Bird,Moderate,Temperate,Mixed
+25.0,Early Bird,Moderate,,Mediterranean
+50.0,Night Owl,Heavy,Tropical,Mixed
+66.0,Night Owl,,Temperate,Mediterranean
+52.0,Night Owl,Light,Cold,Mediterranean
+43.0,Night Owl,Light,Tropical,Mediterranean
+,Irregular,Heavy,Cold,Mixed
+,,Moderate,Cold,Mixed
+25.0,Irregular,,Dry,Asian
+22.0,Irregular,Light,Dry,Mediterranean
+58.0,,Light,Dry,Mixed
+44.0,,Moderate,Cold,Mixed
+28.0,Irregular,Heavy,,Mediterranean
+33.0,Irregular,Light,Temperate,Asian
+34.0,Night Owl,Light,Tropical,Asian
+26.0,Night Owl,Moderate,Cold,Asian
+59.0,Irregular,Light,Tropical,Asian
+45.0,Irregular,Moderate,Temperate,Mixed
+45.0,Night Owl,Moderate,,Asian
+46.0,Night Owl,Light,Tropical,Asian
+66.0,Night Owl,Moderate,Cold,Asian
+44.0,Irregular,Moderate,Cold,Mixed
+,Irregular,Light,Temperate,Asian
+66.0,Early Bird,Moderate,Tropical,
+51.0,Irregular,Heavy,Dry,Mixed
+64.0,Irregular,,Temperate,Asian
+53.0,Night Owl,Light,Cold,Asian
+64.0,Night Owl,Moderate,Temperate,Mediterranean
+49.0,Irregular,Light,Temperate,Mediterranean
+59.0,Early Bird,Moderate,Tropical,Mixed
+25.0,Irregular,Light,Cold,Mixed
+24.0,Early Bird,Heavy,Dry,Mixed
+67.0,Early Bird,Heavy,Tropical,Asian
+19.0,Early Bird,,Dry,
+36.0,Night Owl,,Cold,Asian
+,Early Bird,Light,Dry,
+,Irregular,Heavy,Cold,Asian
+38.0,Irregular,Light,Temperate,Asian
+38.0,Night Owl,Moderate,Tropical,Mixed
+37.0,Irregular,Moderate,Tropical,Asian
+40.0,Early Bird,Moderate,Dry,Asian
+64.0,Night Owl,Light,Cold,Asian
+60.0,Night Owl,Heavy,Cold,Asian
+19.0,Night Owl,Heavy,Dry,Mixed
+67.0,Night Owl,Light,,Mixed
+49.0,Early Bird,Light,Temperate,Mixed
+,Night Owl,Heavy,Tropical,Asian
+23.0,Irregular,Light,Tropical,Mixed
+25.0,Irregular,Heavy,Temperate,Mixed
+19.0,Early Bird,,Tropical,Mixed
+44.0,Irregular,Moderate,Dry,Mixed
+30.0,Night Owl,Moderate,Tropical,Mixed
+36.0,Early Bird,Moderate,Temperate,Asian
+19.0,Early Bird,Heavy,Dry,Mediterranean
+61.0,Irregular,Moderate,Temperate,Mixed
+53.0,Early Bird,Moderate,Tropical,Asian
+34.0,Early Bird,Heavy,Cold,Mixed
+19.0,Early Bird,Light,Tropical,
+58.0,Night Owl,Moderate,Cold,Mediterranean
+35.0,,Heavy,Tropical,Mediterranean
+45.0,Irregular,Heavy,Cold,
+,Night Owl,Light,Dry,Asian
+36.0,,Moderate,Temperate,Mediterranean
+57.0,Night Owl,Heavy,Cold,Mediterranean
+55.0,Early Bird,Heavy,Cold,Asian
+25.0,Irregular,Light,Cold,Asian
+26.0,Night Owl,,Cold,Asian
+19.0,,Moderate,Tropical,Mediterranean
+65.0,Night Owl,Moderate,Dry,Mixed
+47.0,Night Owl,Light,Dry,Asian
+25.0,Night Owl,Heavy,Dry,Mixed
+40.0,Early Bird,Light,Dry,Mediterranean
+41.0,Irregular,Heavy,Cold,Mixed
+,Irregular,Heavy,Cold,Mediterranean
+23.0,Irregular,Light,Cold,Mixed
+31.0,Early Bird,Heavy,Dry,Asian
+67.0,Early Bird,Moderate,Cold,Mediterranean
+35.0,Early Bird,Moderate,Cold,Asian
+52.0,Irregular,Light,Cold,Mediterranean
+26.0,,Light,Cold,Mediterranean
+35.0,Early Bird,Moderate,Dry,Asian
+37.0,Night Owl,Light,Temperate,Mediterranean
+58.0,Irregular,Moderate,Tropical,Mediterranean
+54.0,Irregular,Heavy,Cold,Mixed
+60.0,Early Bird,Moderate,Tropical,Asian
+38.0,Night Owl,Light,Temperate,Mixed
+19.0,Night Owl,Moderate,Temperate,Mixed
+56.0,,Light,Temperate,Mixed
+29.0,Irregular,Moderate,Temperate,
+23.0,Irregular,,Cold,Mixed
+32.0,Irregular,Light,Cold,Mediterranean
+22.0,Irregular,Moderate,Cold,Asian
+39.0,Night Owl,Moderate,,Asian
+,Irregular,Light,Dry,Mixed
+52.0,Early Bird,,Temperate,Asian
+67.0,Early Bird,,Temperate,
+68.0,Early Bird,Heavy,Tropical,Asian
+54.0,Early Bird,Moderate,Cold,Asian
+41.0,,Moderate,Tropical,Mediterranean
+67.0,,Heavy,Dry,Mediterranean
+68.0,Night Owl,Heavy,Temperate,Mixed
+38.0,,Moderate,Dry,Asian
+68.0,Night Owl,Heavy,Tropical,Asian
+57.0,Night Owl,Light,Dry,Asian
+43.0,Night Owl,Heavy,Cold,Mixed
+23.0,Early Bird,Moderate,Temperate,Mediterranean
+65.0,Early Bird,Light,Tropical,Mediterranean
+23.0,Early Bird,Moderate,Tropical,Mediterranean
+25.0,Early Bird,Moderate,Dry,Mediterranean
+63.0,,Moderate,Dry,Mixed
+41.0,Early Bird,Light,Temperate,Mediterranean
+60.0,Night Owl,Moderate,Temperate,Asian
+28.0,Early Bird,Light,Tropical,Mixed
+,Early Bird,Moderate,Dry,Mixed
+41.0,Irregular,Moderate,Dry,Mediterranean
+29.0,Irregular,Heavy,Temperate,Asian
+68.0,Irregular,Light,Cold,Mixed
+52.0,Night Owl,Heavy,Temperate,Mixed
+47.0,Night Owl,Moderate,Dry,Asian
+26.0,Irregular,Heavy,Cold,Asian
+,Night Owl,Light,Dry,Mediterranean
+56.0,Night Owl,Heavy,Temperate,
+57.0,Irregular,,Dry,Asian
+19.0,Irregular,Light,Dry,Asian
+66.0,Early Bird,Moderate,Tropical,Mixed
+42.0,Early Bird,Moderate,Tropical,Mediterranean
+52.0,Night Owl,Heavy,Cold,Mixed
+36.0,Irregular,Moderate,Temperate,Mediterranean
+,Early Bird,Heavy,Tropical,Asian
+38.0,Early Bird,Light,Temperate,Asian
+31.0,Irregular,Moderate,Cold,Asian
+28.0,Irregular,Moderate,Cold,Mediterranean
+53.0,Irregular,Light,,Mediterranean
+68.0,Irregular,Moderate,Dry,Mixed
+34.0,Irregular,Moderate,Dry,Asian
+58.0,Irregular,Moderate,Cold,Mixed
+40.0,Irregular,Moderate,Tropical,Mediterranean
+46.0,Irregular,Moderate,Dry,
+24.0,Early Bird,Moderate,Dry,Mixed
+53.0,Night Owl,Moderate,Cold,Mediterranean
+30.0,Night Owl,Heavy,Tropical,Mediterranean
+,Night Owl,,Dry,Mediterranean
+33.0,Irregular,Heavy,Dry,Mediterranean
+51.0,Night Owl,Moderate,Dry,Mixed
+23.0,Early Bird,Moderate,Cold,
+25.0,Irregular,Light,Dry,Mixed
+,Night Owl,Light,Temperate,Mixed
+63.0,Early Bird,Moderate,Dry,Mediterranean
+40.0,Early Bird,,Tropical,Mixed
+51.0,,Light,Tropical,Mediterranean
+33.0,Night Owl,Light,Tropical,Mediterranean
+61.0,Night Owl,Heavy,Cold,Mixed
+33.0,,Moderate,Temperate,Mixed
+18.0,Early Bird,Moderate,Temperate,
+22.0,Night Owl,Moderate,Tropical,Asian
+22.0,Irregular,Heavy,,Mixed
+56.0,Night Owl,Moderate,Cold,Mediterranean
+22.0,Early Bird,,Dry,Mixed
+,Irregular,Moderate,Temperate,
+55.0,Irregular,Light,Cold,Asian
+64.0,Night Owl,Moderate,Cold,Asian
+29.0,Irregular,Light,Temperate,Asian
+65.0,Night Owl,Moderate,Cold,Mixed
+42.0,Irregular,Light,Tropical,Asian
+33.0,Early Bird,Light,Temperate,Asian
+63.0,,Heavy,,Mediterranean
+64.0,Irregular,Heavy,Tropical,Mediterranean
+,Early Bird,Heavy,Temperate,Asian
+,Early Bird,Moderate,Temperate,Mediterranean
+22.0,Night Owl,Heavy,Temperate,Mediterranean
+55.0,Early Bird,Light,Cold,Mixed
+55.0,Irregular,Light,Temperate,Asian
+50.0,Early Bird,Light,Cold,Mixed
+56.0,Night Owl,Heavy,Cold,Asian
+69.0,Early Bird,Moderate,Dry,Mixed
+35.0,Early Bird,Light,Tropical,Mixed
+52.0,Night Owl,,Tropical,Mediterranean
+18.0,Early Bird,Light,Tropical,Asian
+38.0,Irregular,Light,Dry,Mediterranean
+18.0,Night Owl,Heavy,Dry,Mediterranean
+52.0,Irregular,Heavy,Dry,Asian
+61.0,Early Bird,Moderate,Tropical,Mediterranean
+62.0,Early Bird,,Cold,Mediterranean
+46.0,Early Bird,Heavy,,Mediterranean
+50.0,,Light,Temperate,
+57.0,Night Owl,Heavy,Temperate,Mixed
+67.0,Irregular,Heavy,Dry,Mediterranean
+40.0,,Heavy,Dry,Asian
+65.0,Night Owl,,Dry,Mixed
+30.0,Irregular,Light,Dry,Mediterranean
+41.0,Early Bird,Heavy,,Mediterranean
+45.0,,Heavy,Cold,Asian
+52.0,,Moderate,Temperate,Asian
+65.0,Irregular,Light,Cold,Mediterranean
+,Night Owl,Heavy,Cold,Mixed
+54.0,,,Tropical,Mixed
+63.0,Irregular,Light,Temperate,Mediterranean
+32.0,Irregular,Heavy,Cold,Mediterranean
+36.0,Early Bird,Light,Dry,Mediterranean
+,Irregular,Moderate,Cold,Asian
+45.0,Irregular,Moderate,Temperate,Mediterranean
+19.0,Night Owl,Light,Dry,Asian
+32.0,Early Bird,Heavy,Cold,Mediterranean
+23.0,Irregular,Moderate,Dry,Mixed
+66.0,Night Owl,Light,Tropical,Asian
+48.0,Night Owl,Light,,Asian
+32.0,Early Bird,Moderate,Temperate,
+69.0,Irregular,Heavy,,Asian
+42.0,Early Bird,Light,Cold,Asian
+43.0,Irregular,Heavy,Temperate,Asian
+39.0,,Heavy,Tropical,Asian
+40.0,Irregular,Moderate,Cold,Mixed
+51.0,Night Owl,Light,Dry,Mixed
+35.0,Night Owl,Moderate,Temperate,Mixed
+48.0,,,Tropical,Asian
+31.0,Night Owl,Light,Dry,
+62.0,Night Owl,Heavy,Dry,Asian
+40.0,Night Owl,Heavy,Tropical,Mediterranean
+36.0,Early Bird,,Dry,Asian
+42.0,Early Bird,Heavy,Cold,Mediterranean
+47.0,,Moderate,Tropical,Asian
+48.0,Early Bird,Light,Cold,Mediterranean
+53.0,Early Bird,Heavy,Temperate,Asian
+20.0,Irregular,Heavy,Dry,
+36.0,Early Bird,Heavy,Temperate,Mediterranean
+50.0,Early Bird,Light,Cold,Mediterranean
+39.0,Early Bird,Heavy,Temperate,Mediterranean
+34.0,Irregular,Heavy,Dry,Mediterranean
+29.0,Early Bird,Heavy,Cold,Mediterranean
+39.0,,Light,Cold,Asian
+20.0,Early Bird,Moderate,Dry,
+19.0,Early Bird,Light,Temperate,Asian
+60.0,Night Owl,Heavy,Dry,Mediterranean
+18.0,Early Bird,Light,Cold,Mixed
+18.0,Early Bird,Heavy,Cold,Mediterranean
+19.0,Night Owl,Moderate,Tropical,Mediterranean
+65.0,Early Bird,Moderate,Tropical,Mixed
+28.0,Irregular,Moderate,Temperate,Asian
+35.0,Night Owl,Light,Cold,Mediterranean
+46.0,Irregular,Light,Cold,Mediterranean
+59.0,Early Bird,Moderate,,Mixed
+47.0,Early Bird,Heavy,Cold,Mediterranean
+54.0,Early Bird,Light,Tropical,Mediterranean
+18.0,Irregular,Light,Tropical,Mediterranean
+64.0,,Heavy,Tropical,Asian
+36.0,,Moderate,Temperate,Mixed
+37.0,Irregular,Heavy,Tropical,Asian
+49.0,Night Owl,,Temperate,Mixed
+52.0,Night Owl,Heavy,Dry,Asian
+51.0,Early Bird,Light,Temperate,Mixed
+48.0,Early Bird,Light,,
+68.0,Irregular,Light,Temperate,Mediterranean
+64.0,Early Bird,Moderate,Temperate,Mediterranean
+52.0,Early Bird,Moderate,Dry,Asian
+44.0,Irregular,Moderate,Temperate,Mediterranean
+47.0,Early Bird,Light,Tropical,Mediterranean
+51.0,Early Bird,Heavy,Tropical,Asian
+69.0,Irregular,Light,Tropical,Asian
+24.0,Irregular,Moderate,Dry,Mixed
+,Irregular,Light,Cold,Mediterranean
+35.0,Night Owl,Heavy,Tropical,
+55.0,Early Bird,Light,Cold,Asian
+60.0,Irregular,Moderate,Cold,Mixed
+34.0,Irregular,,Cold,
+55.0,Night Owl,Moderate,Dry,
+41.0,Night Owl,Light,Tropical,Mediterranean
+31.0,Night Owl,Heavy,Cold,Mediterranean
+32.0,Night Owl,Light,,Mediterranean
+25.0,Irregular,Moderate,Dry,Mixed
+55.0,Night Owl,Heavy,Temperate,
+39.0,Irregular,Heavy,Dry,Mixed
+39.0,Early Bird,Heavy,Cold,Mixed
+43.0,Night Owl,Light,Temperate,Asian
+41.0,Irregular,Light,Tropical,Asian
+26.0,Irregular,Heavy,Tropical,Mixed
+48.0,Irregular,Moderate,Temperate,Mediterranean
+56.0,Irregular,Light,Temperate,Asian
+42.0,Irregular,,Temperate,Mediterranean
+32.0,Irregular,Heavy,Tropical,Mixed
+29.0,Night Owl,Moderate,Tropical,Mixed
+34.0,Irregular,Heavy,Temperate,Mediterranean
+52.0,Night Owl,Light,Dry,Mixed
+61.0,Irregular,Light,Temperate,Mixed
+55.0,Irregular,Moderate,Tropical,Asian
+28.0,Irregular,Heavy,Dry,
+69.0,Night Owl,Light,Cold,Asian
+50.0,Early Bird,Light,Tropical,Mediterranean
+18.0,Night Owl,Moderate,Tropical,Mixed
+27.0,Early Bird,Light,Tropical,Asian
+,Early Bird,Moderate,Cold,Asian
+57.0,Irregular,Heavy,,
+41.0,Early Bird,Heavy,Tropical,Mediterranean
+60.0,Early Bird,Moderate,Temperate,
+18.0,Irregular,Light,Tropical,Asian
+33.0,Night Owl,Heavy,Tropical,Mixed
+32.0,Night Owl,Heavy,Cold,Asian
+35.0,Irregular,Moderate,Dry,Mixed
+,Irregular,,Dry,Asian
+27.0,Night Owl,,Temperate,Asian
+28.0,Irregular,Light,Tropical,Mediterranean
+30.0,Early Bird,Light,Cold,Mediterranean
+33.0,Irregular,Light,Tropical,Asian
+28.0,Night Owl,Heavy,Tropical,Mediterranean
+18.0,,Light,Temperate,Asian
+61.0,Early Bird,Moderate,,
+60.0,Early Bird,Moderate,Temperate,Mediterranean
+64.0,Early Bird,Heavy,Dry,Asian
+33.0,Night Owl,Light,Dry,Asian
+54.0,Night Owl,Heavy,Dry,Mediterranean
+55.0,Night Owl,Heavy,Tropical,Mixed
+20.0,Early Bird,Heavy,Dry,Mixed
+38.0,Early Bird,Heavy,Dry,Asian
+56.0,Irregular,Heavy,Temperate,
+19.0,,Moderate,Dry,
+,Night Owl,Heavy,Temperate,Mixed
+39.0,Early Bird,Heavy,Tropical,Mediterranean
+25.0,Irregular,Heavy,Cold,Mediterranean
+56.0,Early Bird,Light,Cold,Mediterranean
+53.0,Irregular,Light,,Mixed
+36.0,Night Owl,Light,Cold,Mediterranean
+60.0,Early Bird,Moderate,Dry,Mediterranean
+46.0,Night Owl,Heavy,,Asian
+23.0,Early Bird,Heavy,Cold,Mixed
+40.0,Irregular,Light,Dry,Mediterranean
+54.0,Early Bird,Heavy,Tropical,Asian
+39.0,Night Owl,Moderate,Cold,Asian
+64.0,Night Owl,Heavy,Tropical,Mediterranean
+54.0,Early Bird,Moderate,Dry,
+37.0,Early Bird,Light,Tropical,Asian
+31.0,Night Owl,Moderate,Cold,Asian
+52.0,Night Owl,Heavy,Tropical,Asian
+31.0,Night Owl,Moderate,Tropical,Asian
+20.0,Irregular,Heavy,Cold,Mixed
+,Early Bird,Moderate,Cold,Mixed
+45.0,Night Owl,Light,Cold,
+51.0,Early Bird,Light,Tropical,Mediterranean
+69.0,Early Bird,Heavy,Temperate,Mediterranean
+59.0,Night Owl,Moderate,Cold,Asian
+,Irregular,Light,Temperate,Mixed
+58.0,Early Bird,Moderate,Cold,Asian
+19.0,Night Owl,Light,Cold,Mixed
+21.0,Irregular,Heavy,,Mixed
+46.0,,,Cold,Mixed
+22.0,Night Owl,Light,Cold,Asian
+59.0,Early Bird,Moderate,Temperate,Mixed
+35.0,Irregular,Heavy,Dry,Mediterranean
+25.0,Night Owl,Moderate,Tropical,Mixed
+27.0,Night Owl,Light,,Asian
+58.0,Early Bird,Light,Temperate,
+45.0,Night Owl,Light,Tropical,Mixed
+19.0,Night Owl,Heavy,Cold,Mixed
+26.0,Night Owl,Light,Tropical,
+56.0,Irregular,Heavy,Dry,Mediterranean
+43.0,Early Bird,Moderate,Cold,Mixed
+44.0,Night Owl,,Cold,Mediterranean
+39.0,Night Owl,Heavy,Cold,Asian
+65.0,Irregular,Heavy,Dry,Mediterranean
+29.0,Irregular,Light,Tropical,Mixed
+44.0,Irregular,Light,Tropical,Mixed
+57.0,Night Owl,Light,Cold,Asian
+38.0,Irregular,Heavy,Dry,Asian
+,Early Bird,Moderate,Tropical,Mediterranean
+18.0,Night Owl,Heavy,Temperate,Mediterranean
+53.0,Early Bird,Moderate,Dry,Mixed
+,Early Bird,Light,Dry,
+62.0,Irregular,Heavy,Dry,Mixed
+56.0,Irregular,Moderate,Cold,Mixed
+,Irregular,Light,Temperate,Mediterranean
+52.0,Irregular,Light,Dry,Mediterranean
+19.0,Early Bird,Light,,Mixed
+24.0,Early Bird,,Cold,Mixed
+21.0,Early Bird,Moderate,Cold,Mediterranean
+21.0,Irregular,Moderate,Dry,Asian
+24.0,Night Owl,Moderate,Dry,Mediterranean
+59.0,Night Owl,Moderate,Temperate,Mediterranean
+49.0,Irregular,Heavy,Cold,Mixed
+20.0,Early Bird,Heavy,Cold,Asian
+,Irregular,Moderate,Cold,Asian
+36.0,Early Bird,Heavy,Tropical,Asian
+26.0,Irregular,Light,Dry,Mixed
+23.0,Irregular,Heavy,Temperate,Mediterranean
+27.0,Night Owl,Moderate,Tropical,Asian
+63.0,Early Bird,Light,Cold,Asian
+45.0,Early Bird,Moderate,Tropical,Mixed
+32.0,Irregular,Light,Cold,Asian
+67.0,Irregular,Heavy,Temperate,Asian
+30.0,Night Owl,,Dry,Asian
+67.0,Irregular,Moderate,Tropical,Asian
+69.0,Irregular,Light,Cold,Mediterranean
+63.0,Early Bird,Light,Temperate,Mediterranean
+47.0,Early Bird,Moderate,Dry,Mixed
+36.0,Irregular,Light,Tropical,Mediterranean
+42.0,Night Owl,Light,Cold,Mixed
+,Irregular,Heavy,Cold,Asian
+20.0,Night Owl,Moderate,Dry,Asian
+59.0,Night Owl,Moderate,Tropical,Mediterranean
+47.0,Irregular,Light,,Asian
+18.0,Night Owl,Moderate,Cold,Asian
+34.0,Irregular,Moderate,Cold,Mediterranean
+55.0,Irregular,Moderate,Temperate,Asian
+22.0,Early Bird,Heavy,Tropical,Mediterranean
+36.0,Night Owl,,Cold,Mediterranean
+33.0,Night Owl,Heavy,Tropical,Mediterranean
+36.0,Irregular,,Cold,Mediterranean
+29.0,Irregular,Heavy,Dry,Mediterranean
+22.0,Early Bird,Light,Cold,Asian
+,Irregular,Heavy,Dry,Mixed
+52.0,Irregular,Heavy,Temperate,Mediterranean
+61.0,Early Bird,Moderate,Tropical,
+54.0,Night Owl,Light,Tropical,Asian
+29.0,Night Owl,,Dry,Mixed
+41.0,Early Bird,,Temperate,Mixed
+24.0,Early Bird,Moderate,Tropical,Mediterranean
+45.0,Irregular,Moderate,Tropical,Mediterranean
+51.0,Night Owl,Light,Cold,Asian
+18.0,,Heavy,Tropical,Mediterranean
+59.0,Early Bird,Moderate,Dry,Mixed
+38.0,Irregular,,Cold,Mediterranean
+23.0,Early Bird,Moderate,Cold,Mixed
+27.0,Early Bird,Moderate,Temperate,Mixed
+31.0,Irregular,Light,Cold,Mediterranean
+26.0,Night Owl,Moderate,Temperate,Asian
+42.0,Early Bird,Light,Temperate,Mediterranean
+64.0,Early Bird,Light,Dry,Asian
+52.0,Irregular,Moderate,Tropical,Asian
+30.0,Night Owl,Heavy,Cold,Asian
+59.0,Irregular,Light,Tropical,Mixed
+44.0,Night Owl,Heavy,Dry,Mixed
+33.0,Early Bird,Moderate,Tropical,Mixed
+,Early Bird,Light,Temperate,Mediterranean
+51.0,Irregular,Moderate,Tropical,Mediterranean
+29.0,,,Cold,Asian
+,Night Owl,,Cold,Mixed
+63.0,Night Owl,Heavy,Tropical,Asian
+64.0,Irregular,Moderate,Cold,Mixed
+57.0,,Moderate,Dry,Mixed
+31.0,Night Owl,Heavy,Temperate,Mixed
+69.0,Irregular,Light,Tropical,Mixed
+,Night Owl,Moderate,Temperate,Mixed
+56.0,Night Owl,Heavy,Tropical,Mixed
+36.0,Night Owl,Moderate,Temperate,Mediterranean
+62.0,Irregular,Moderate,Dry,Mixed
+21.0,Early Bird,Moderate,Tropical,Asian
+,Night Owl,Heavy,Dry,Mediterranean
+23.0,,Moderate,Cold,Mediterranean
+36.0,Irregular,,Tropical,Mixed
+30.0,Early Bird,Heavy,Temperate,Mixed
+46.0,Early Bird,Moderate,Cold,Mediterranean
+53.0,Night Owl,Heavy,,Asian
+35.0,Night Owl,Moderate,Dry,Mixed
+25.0,Irregular,Heavy,Dry,Asian
+60.0,Night Owl,Heavy,Dry,Asian
+57.0,Early Bird,Heavy,Tropical,Mixed
+60.0,Irregular,Light,Dry,Mediterranean
+39.0,Night Owl,Moderate,Tropical,
+30.0,Irregular,Moderate,Cold,Mediterranean
+49.0,Night Owl,Light,Dry,Mediterranean
+45.0,,Heavy,Temperate,Mediterranean
+29.0,Early Bird,Heavy,Tropical,Asian
+52.0,Irregular,Moderate,Temperate,Mixed
+64.0,Irregular,Heavy,,Asian
+58.0,Irregular,Heavy,Dry,Asian
+,Irregular,Moderate,Dry,Mixed
+57.0,Night Owl,Moderate,Cold,Mixed
+38.0,Irregular,Moderate,Cold,Mediterranean
+28.0,Early Bird,Heavy,Dry,Mediterranean
+65.0,Early Bird,,Temperate,Mediterranean
+61.0,,Moderate,Tropical,Mixed
+47.0,Irregular,Heavy,,Asian
+52.0,Night Owl,Heavy,Dry,Mediterranean
+38.0,Night Owl,Light,Dry,Mediterranean
+69.0,Irregular,Heavy,Dry,Asian
+23.0,Irregular,Moderate,Cold,Mediterranean
+31.0,Early Bird,Light,Dry,Mediterranean
+22.0,Irregular,Heavy,Tropical,Asian
+63.0,Irregular,Light,Cold,Asian
+53.0,Early Bird,Moderate,Cold,Asian
+27.0,Irregular,,Dry,Mixed
+49.0,Irregular,Light,Tropical,Asian
+57.0,Night Owl,Moderate,Dry,Mixed
+34.0,Night Owl,Light,Temperate,Asian
+65.0,Night Owl,Moderate,Dry,Mediterranean
+66.0,Irregular,Light,Temperate,Mixed
+36.0,Irregular,Moderate,Cold,Mediterranean
+33.0,Early Bird,Heavy,Temperate,Mediterranean
+35.0,Irregular,Moderate,Tropical,Mediterranean
+45.0,Early Bird,Heavy,,Asian
+58.0,Early Bird,Light,Temperate,Asian
+30.0,Early Bird,Moderate,Cold,Mixed
+66.0,Irregular,Moderate,Dry,Mediterranean
+53.0,,Heavy,Cold,Mixed
+48.0,Night Owl,Heavy,Cold,Mediterranean
+60.0,Night Owl,Moderate,Temperate,Mediterranean
+23.0,Night Owl,,Temperate,Mixed
+50.0,Irregular,Heavy,Dry,Mediterranean
+30.0,Night Owl,Light,Cold,Asian
+42.0,,Heavy,Tropical,Asian
+46.0,Early Bird,Moderate,Tropical,Mixed
+18.0,Night Owl,Moderate,Dry,Mixed
+32.0,Irregular,Light,Temperate,Asian
+51.0,Irregular,Moderate,Dry,Asian
+18.0,Early Bird,Heavy,,Mixed
+21.0,Night Owl,Light,Cold,Mixed
+42.0,Early Bird,Moderate,Cold,Asian
+,Early Bird,Moderate,Cold,Mixed
+44.0,Early Bird,Moderate,,Asian
+30.0,Early Bird,Moderate,Temperate,Mixed
+29.0,Early Bird,Light,Cold,Asian
+26.0,,Light,Temperate,Mixed
+62.0,Irregular,Light,Cold,Mixed
+58.0,Night Owl,Light,Temperate,Mixed
+19.0,Early Bird,Light,Temperate,Mediterranean
+20.0,Night Owl,Heavy,,Mixed
+30.0,Night Owl,Light,,Mixed
+,Night Owl,,Tropical,Asian
+47.0,Irregular,Light,Temperate,Mixed
+51.0,Night Owl,Heavy,Tropical,Mediterranean
+,Irregular,Moderate,Tropical,Mixed
+52.0,Irregular,Heavy,Dry,Mixed
+29.0,Night Owl,Heavy,,Mixed
+,Irregular,Light,Dry,Asian
+62.0,Early Bird,Light,Temperate,Asian
+46.0,Irregular,Light,Cold,Mixed
+18.0,Early Bird,Heavy,Cold,
+,Early Bird,Moderate,,Mixed
+59.0,Irregular,Moderate,Dry,Asian
+,Night Owl,Moderate,Dry,Mixed
+60.0,,Heavy,Cold,Mediterranean
+54.0,Night Owl,Moderate,Cold,Mediterranean
+52.0,Early Bird,Light,Tropical,Mediterranean
+31.0,Early Bird,Light,Tropical,Mixed
+29.0,Early Bird,Light,Tropical,Mediterranean
+,Early Bird,Heavy,Dry,Mediterranean
+43.0,Irregular,Light,Temperate,Mixed
+25.0,Early Bird,Light,Temperate,Asian
+,Night Owl,Moderate,Tropical,Mixed
+43.0,Night Owl,Light,Tropical,Asian
+,Early Bird,Light,Tropical,Mediterranean
+46.0,Night Owl,Moderate,Dry,Mixed
+52.0,Night Owl,Heavy,Temperate,Mediterranean
+66.0,Irregular,Light,Dry,Mixed
+20.0,Early Bird,Light,Cold,Asian
+59.0,Night Owl,,Tropical,Asian
+39.0,Early Bird,Light,Temperate,Mixed
+31.0,Early Bird,Light,Dry,Asian
+56.0,Early Bird,,Cold,Mediterranean
+32.0,Irregular,Moderate,,Mixed
+24.0,Irregular,Moderate,,Mediterranean
+67.0,Early Bird,Heavy,Tropical,Mixed
+32.0,Irregular,Heavy,Dry,
+,Irregular,Heavy,Temperate,Mixed
+44.0,Early Bird,Light,Dry,Mixed
+34.0,Night Owl,Moderate,Dry,Asian
+49.0,Night Owl,Moderate,Tropical,Mixed
+65.0,,Moderate,Dry,Asian
+43.0,Night Owl,Light,Temperate,Mixed
+66.0,Night Owl,Light,Temperate,Asian
+59.0,Irregular,Moderate,Temperate,Asian
+22.0,Irregular,Light,Tropical,Asian
+33.0,Irregular,Heavy,,Mediterranean
+66.0,Irregular,Light,Temperate,Mediterranean
+28.0,Early Bird,Light,,Mediterranean
+42.0,Early Bird,Heavy,Tropical,Mediterranean
+37.0,Night Owl,Light,Cold,Mixed
+30.0,Early Bird,Light,Tropical,Asian
+33.0,Night Owl,Heavy,Cold,Mixed
+59.0,Night Owl,Light,Temperate,Asian
+,Night Owl,Light,Dry,Mixed
+31.0,Early Bird,,Dry,Asian
+56.0,Night Owl,Light,Dry,Asian
+54.0,Irregular,Moderate,Dry,Asian
+,Night Owl,Light,,Mixed
+32.0,Early Bird,Heavy,Tropical,Mediterranean
+49.0,Irregular,Heavy,Dry,
+27.0,Night Owl,Light,Cold,Asian
+51.0,Early Bird,Light,Cold,Mediterranean
+60.0,Night Owl,Moderate,Cold,Mediterranean
+65.0,Night Owl,Heavy,Temperate,Mixed
+,Night Owl,Moderate,Tropical,Asian
+59.0,Irregular,Moderate,Tropical,Mediterranean
+28.0,Night Owl,Moderate,Cold,Mixed
+60.0,Irregular,,Tropical,Mixed
+21.0,Night Owl,Heavy,,Asian
+27.0,Early Bird,Light,Dry,Asian
+45.0,Early Bird,Heavy,Temperate,Mixed
+26.0,Irregular,Heavy,Dry,Asian
+25.0,Early Bird,Heavy,Dry,Mixed
+41.0,Early Bird,Moderate,Temperate,Mixed
+46.0,Irregular,Moderate,Dry,Mediterranean
+,Irregular,Light,Tropical,Mediterranean
+39.0,Early Bird,,Dry,Asian
+22.0,Irregular,Light,Cold,Asian
+18.0,Irregular,,Temperate,Mediterranean
+67.0,Night Owl,,Dry,Mixed
+31.0,Early Bird,Heavy,Cold,Mixed
+57.0,Irregular,Light,Temperate,Mediterranean
+28.0,Irregular,Heavy,Tropical,Mediterranean
+29.0,Early Bird,Light,Dry,Mediterranean
+40.0,Early Bird,Moderate,Cold,Asian
+40.0,Irregular,Heavy,Tropical,Mediterranean
+40.0,,Moderate,Temperate,Asian
+49.0,Early Bird,Moderate,Dry,Mediterranean
+56.0,Irregular,Heavy,,Mixed
+27.0,Night Owl,Moderate,Dry,Mediterranean
+22.0,Early Bird,Light,Dry,Asian
+49.0,Irregular,Moderate,Tropical,Mixed
+67.0,,Light,,
+26.0,Early Bird,Heavy,Tropical,Mixed
+39.0,Early Bird,Light,,Mixed
+26.0,Night Owl,Light,Temperate,Asian
+,Night Owl,Moderate,Temperate,Mixed
+53.0,Early Bird,,Tropical,Mediterranean
+,Irregular,,Tropical,
+68.0,,Moderate,Temperate,Mediterranean
+42.0,Early Bird,Heavy,Cold,Asian
+36.0,Irregular,Heavy,Tropical,Mixed
+38.0,Irregular,Heavy,,Asian
+62.0,Early Bird,Moderate,,Asian
+43.0,Night Owl,Moderate,Dry,Mixed
+32.0,Night Owl,Heavy,Dry,Mediterranean
+60.0,Irregular,Heavy,Temperate,
+39.0,Early Bird,Moderate,Tropical,Asian
+47.0,Early Bird,Light,Temperate,Mediterranean
+67.0,Irregular,Heavy,Temperate,Mediterranean
+18.0,Early Bird,Moderate,,Mixed
+35.0,,,Cold,Mixed
+69.0,Early Bird,Moderate,Cold,Mediterranean
+54.0,Early Bird,Moderate,Dry,Mediterranean
+18.0,Early Bird,Moderate,Temperate,Asian
+61.0,Early Bird,Heavy,Tropical,Asian
+27.0,,Light,,Asian
+51.0,Irregular,Moderate,Dry,Mediterranean
+61.0,Night Owl,Heavy,Dry,Asian
+34.0,Early Bird,Light,Temperate,Mixed
+50.0,Irregular,Heavy,Cold,Mediterranean
+,,Moderate,Temperate,Asian
+57.0,Night Owl,Heavy,Dry,Asian
+39.0,Irregular,Heavy,Dry,
+55.0,Night Owl,Heavy,Cold,Mixed
+63.0,,Heavy,,Mixed
+51.0,Early Bird,Moderate,Temperate,Mixed
+59.0,Irregular,Heavy,Temperate,Mediterranean
+40.0,Early Bird,,Cold,Mediterranean
+47.0,Irregular,Moderate,Dry,Mixed
+,Irregular,,Tropical,Asian
+60.0,Night Owl,Light,Cold,
+65.0,Night Owl,Light,Tropical,Mediterranean
+33.0,Irregular,Heavy,Dry,Mixed
+30.0,Night Owl,Heavy,Temperate,Asian
+60.0,Irregular,,Cold,Asian
+20.0,Irregular,Light,Cold,Mixed
+28.0,Irregular,Heavy,Cold,Mediterranean
+69.0,Early Bird,Light,Cold,Asian
+62.0,Early Bird,Moderate,Dry,Mixed
+22.0,Early Bird,Moderate,Temperate,Mixed
+30.0,Night Owl,Moderate,,Mixed
+26.0,,Heavy,Temperate,Mixed
+21.0,Early Bird,Moderate,Cold,Asian
+57.0,Night Owl,Moderate,Cold,Asian
+66.0,Night Owl,Heavy,Cold,Mixed
+49.0,Early Bird,Moderate,Cold,
+34.0,Irregular,Heavy,Dry,Mixed
+33.0,,Heavy,Tropical,Mixed
+28.0,Early Bird,Moderate,Dry,Mixed
+45.0,Early Bird,Heavy,Dry,Asian
+29.0,,Light,Cold,Mixed
+,Irregular,,Dry,Mediterranean
+47.0,Irregular,Light,Tropical,Mixed
+34.0,Irregular,Light,Cold,Mediterranean
+27.0,Early Bird,Moderate,Dry,Mixed
+66.0,Night Owl,Heavy,Dry,Asian
+28.0,Early Bird,Heavy,Tropical,Mediterranean
+23.0,Night Owl,Moderate,Dry,Asian
+,Irregular,Heavy,Temperate,
+69.0,Irregular,Moderate,Dry,Asian
+21.0,Night Owl,Heavy,Dry,Asian
+59.0,Night Owl,Moderate,Cold,Mediterranean
+34.0,,Moderate,Temperate,Mixed
+68.0,Night Owl,,Dry,Asian
+34.0,Irregular,Light,Tropical,Mixed
+65.0,Irregular,Heavy,Temperate,Mediterranean
+32.0,Early Bird,Light,Tropical,Mixed
+40.0,Night Owl,Light,Temperate,Mediterranean
+54.0,Early Bird,Light,Cold,
+28.0,Irregular,Heavy,Temperate,Mediterranean
+68.0,Early Bird,Heavy,Dry,Mixed
+43.0,Irregular,Heavy,Dry,Mediterranean
+61.0,Irregular,Light,Cold,Mixed
+39.0,Irregular,Moderate,Tropical,Mediterranean
+37.0,Night Owl,Heavy,Temperate,Mixed
+31.0,Night Owl,Heavy,Cold,Asian
+34.0,Night Owl,,Temperate,Mediterranean
+35.0,Irregular,Heavy,Tropical,Mixed
+,Night Owl,Light,Cold,Asian
+43.0,,Light,Dry,Asian
+37.0,Night Owl,Heavy,,Mixed
+40.0,Early Bird,Moderate,Cold,Mixed
+24.0,Night Owl,Heavy,Dry,Mixed
+37.0,Irregular,,Dry,Asian
+,Night Owl,Light,Temperate,Asian
+53.0,Night Owl,,Dry,Asian
+42.0,Early Bird,Heavy,Dry,Mixed
+69.0,,Light,Temperate,
+30.0,Early Bird,Heavy,Temperate,Asian
+49.0,,Heavy,Cold,Asian
+47.0,Early Bird,,Temperate,Mixed
+44.0,Night Owl,Heavy,Temperate,Mixed
+39.0,Night Owl,Light,Tropical,Mixed
+25.0,Night Owl,,Temperate,Mixed
+46.0,Early Bird,Moderate,Dry,Asian
+42.0,Early Bird,Heavy,Tropical,Mixed
+50.0,Irregular,Moderate,Cold,
+50.0,Early Bird,Moderate,Cold,Mediterranean
+51.0,Early Bird,Light,Tropical,Asian
+45.0,Night Owl,Light,Cold,Asian
+36.0,Irregular,Heavy,Temperate,Asian
+63.0,Irregular,Moderate,Tropical,Asian
+63.0,Night Owl,Moderate,Cold,Asian
+46.0,Early Bird,Heavy,,Mixed
+,Irregular,Heavy,Temperate,Asian
+44.0,Night Owl,Heavy,Cold,
+49.0,Early Bird,Light,Tropical,Mixed
+,Irregular,Light,Dry,Mediterranean
+18.0,Night Owl,Light,Tropical,Mediterranean
+54.0,Night Owl,Heavy,Dry,Asian
+,Night Owl,Heavy,Dry,Asian
+21.0,Irregular,Light,Tropical,Asian
+20.0,Early Bird,Moderate,Dry,Mixed
+53.0,Irregular,Light,Dry,
+30.0,Night Owl,Moderate,Dry,Asian
+,Early Bird,Moderate,Cold,Mediterranean
+,,,Temperate,Asian
+37.0,Night Owl,Light,Temperate,Mixed
+,Irregular,Heavy,,Mediterranean
+52.0,Early Bird,Light,Temperate,Asian
+21.0,Irregular,,Cold,Mixed
+32.0,Early Bird,Moderate,Dry,Asian
+40.0,Early Bird,Heavy,Temperate,Mediterranean
+,Irregular,Moderate,Dry,Asian
+24.0,Early Bird,Light,Temperate,Mediterranean
+38.0,Irregular,Moderate,Dry,Asian
+53.0,Irregular,Light,Temperate,
+55.0,Irregular,Moderate,Tropical,
+66.0,Early Bird,Light,Cold,Asian
+64.0,Night Owl,Light,,Mixed
+41.0,Irregular,Light,Dry,Mixed
+61.0,Early Bird,Moderate,Dry,Mixed
+36.0,Early Bird,Light,Cold,Mixed
+,Early Bird,,Cold,Asian
+34.0,Early Bird,Heavy,Temperate,Mediterranean
+66.0,Early Bird,Heavy,Cold,Asian
+69.0,Night Owl,Moderate,Cold,Mixed
+26.0,Early Bird,,Cold,Mixed
+22.0,,Heavy,Dry,Mixed
+65.0,Night Owl,Heavy,Tropical,Mediterranean
+25.0,Early Bird,Moderate,Cold,Mediterranean
+,Irregular,Heavy,Cold,Mixed
+39.0,Irregular,Light,Cold,Mixed
+59.0,Early Bird,Light,Dry,Asian
+,Night Owl,Moderate,Cold,Mediterranean
+29.0,Night Owl,Heavy,Cold,Mixed
+53.0,Early Bird,,Dry,Mediterranean
+18.0,Early Bird,Heavy,Cold,
+21.0,Early Bird,Light,Tropical,Mediterranean
+56.0,Night Owl,Light,Dry,Mediterranean
+46.0,Irregular,Heavy,Temperate,Mixed
+25.0,Night Owl,Light,Tropical,Mixed
+59.0,Irregular,Light,,Mixed
+48.0,Early Bird,Heavy,Temperate,Asian
+53.0,Night Owl,Heavy,Dry,Mixed
+18.0,Early Bird,Heavy,Cold,Asian
+35.0,Early Bird,Light,Dry,Mixed
+29.0,,Heavy,Temperate,Mediterranean
+44.0,Early Bird,Light,Tropical,Asian
+30.0,Early Bird,Light,Temperate,Mixed
+,Night Owl,Light,Dry,Asian
+62.0,Early Bird,Light,Tropical,Mediterranean
+35.0,Irregular,,Tropical,Asian
+19.0,Irregular,Light,Cold,Mediterranean
+65.0,Early Bird,Moderate,Dry,Asian
+22.0,Irregular,Heavy,Temperate,Mixed
+65.0,Irregular,Light,Tropical,Mediterranean
+47.0,Night Owl,Moderate,Cold,Mixed
+61.0,Early Bird,Light,Dry,Mixed
+66.0,Irregular,Heavy,Temperate,Mediterranean
+58.0,Night Owl,Heavy,Dry,Mediterranean
+38.0,Irregular,Heavy,Dry,Mediterranean
+69.0,Early Bird,Moderate,Tropical,Mixed
+18.0,Irregular,Heavy,Tropical,Mediterranean
+42.0,Irregular,Moderate,Dry,Mixed
+51.0,Night Owl,Light,Cold,Mixed
+60.0,Early Bird,Light,Temperate,Mixed
+,Early Bird,Light,Dry,Mediterranean
+,Irregular,Light,Dry,Mixed
+52.0,Early Bird,Heavy,Dry,Mixed
+66.0,,Heavy,Temperate,Mixed
+,Night Owl,Moderate,Tropical,Mediterranean
+42.0,Early Bird,Light,Cold,Mixed
+38.0,Irregular,Light,Temperate,Mediterranean
+63.0,Irregular,,,
+20.0,Early Bird,Light,Cold,Mixed
+34.0,Irregular,Moderate,Dry,Mixed
+34.0,Night Owl,Heavy,Dry,Asian
+34.0,Night Owl,Heavy,Temperate,Asian
+52.0,Irregular,,Tropical,Mediterranean
+,Night Owl,Moderate,Tropical,Asian
+40.0,Irregular,Moderate,Cold,Asian
+35.0,Irregular,Moderate,,Mixed
+57.0,Irregular,Heavy,Tropical,Asian
+69.0,Irregular,Heavy,Cold,Mediterranean
+67.0,Early Bird,Moderate,Dry,Mediterranean
+46.0,Early Bird,Heavy,Dry,Mediterranean
+55.0,Early Bird,Moderate,Cold,Mediterranean
+34.0,Night Owl,Moderate,Tropical,Asian
+40.0,Early Bird,Moderate,Dry,Mixed
+61.0,Night Owl,Heavy,Tropical,Mixed
+36.0,Early Bird,Light,Tropical,Mixed
+44.0,,Light,Cold,Asian
+57.0,Irregular,Heavy,Cold,Asian
+55.0,Early Bird,Heavy,Tropical,Asian
+38.0,Night Owl,Light,Temperate,Asian
+60.0,Irregular,Heavy,Cold,Asian
+66.0,Early Bird,Heavy,Temperate,Asian
+47.0,Early Bird,Moderate,Temperate,
+27.0,Early Bird,Heavy,Dry,Mixed
+31.0,Irregular,Light,Temperate,Asian
+62.0,Night Owl,Moderate,Cold,Mediterranean
+,Irregular,Moderate,Tropical,Mixed
+30.0,Night Owl,Moderate,Cold,Mixed
+40.0,Night Owl,Heavy,Temperate,Mixed
+69.0,Early Bird,Heavy,Dry,Mixed
+29.0,Night Owl,Moderate,Tropical,Mediterranean
+59.0,Early Bird,Moderate,Temperate,Asian
+26.0,Early Bird,Heavy,Temperate,Mixed
+33.0,Early Bird,Light,Dry,Mixed
+25.0,Night Owl,Light,Cold,Mixed
+52.0,Early Bird,Heavy,Temperate,Mixed
+37.0,Irregular,Heavy,Dry,Mediterranean
+47.0,Early Bird,Moderate,Cold,Mixed
+66.0,Irregular,,Temperate,Mixed
+28.0,Early Bird,Moderate,,Mixed
+41.0,Night Owl,,Dry,Mixed
+38.0,Early Bird,Heavy,Tropical,Asian
+57.0,Early Bird,Light,Dry,Asian
+25.0,,Heavy,Dry,Mixed
+69.0,Early Bird,,Tropical,
+56.0,Night Owl,Light,Cold,Mixed
+67.0,Early Bird,Heavy,Tropical,Mediterranean
+64.0,Early Bird,,Temperate,Mediterranean
+49.0,Irregular,Light,Cold,Mediterranean
+29.0,Early Bird,Moderate,Tropical,Mediterranean
+27.0,Early Bird,Heavy,Cold,Mixed
+43.0,Night Owl,Moderate,Cold,Mixed
+39.0,Early Bird,Heavy,Temperate,Mixed
+27.0,Irregular,Light,Tropical,Asian
+52.0,Irregular,Heavy,,Mixed
+63.0,,Moderate,Tropical,
+35.0,Irregular,,Tropical,Mixed
+36.0,Night Owl,Moderate,Tropical,Mixed
+51.0,Early Bird,Moderate,Tropical,Asian
+56.0,Irregular,Light,Tropical,Mediterranean
+52.0,,Heavy,Temperate,Mediterranean
+49.0,Irregular,Moderate,Dry,Mediterranean
+40.0,Early Bird,Moderate,Tropical,Mixed
+,Early Bird,,Cold,Mixed
+29.0,Irregular,Light,Tropical,Asian
+35.0,Early Bird,Light,Temperate,Asian
+31.0,Early Bird,Light,Temperate,Mixed
+52.0,Night Owl,Moderate,Cold,Asian
+69.0,,Heavy,Dry,Mixed
+39.0,Night Owl,,Tropical,Asian
+36.0,Early Bird,Heavy,Tropical,Mixed
+55.0,Early Bird,Light,Temperate,Mediterranean
+28.0,Irregular,Light,Cold,Mediterranean
+20.0,Irregular,Moderate,Temperate,Mixed
+53.0,Irregular,Moderate,Temperate,
+52.0,Early Bird,Moderate,Dry,Mediterranean
+54.0,Early Bird,Light,Cold,Mixed
+25.0,Night Owl,Heavy,Temperate,Mediterranean
+41.0,Irregular,Light,Temperate,Asian
+43.0,Early Bird,Heavy,Dry,Asian
+,Irregular,Light,Cold,Mixed
+45.0,Night Owl,,Temperate,Mediterranean
+63.0,Irregular,Moderate,Dry,Mediterranean
+52.0,Early Bird,,Dry,Mediterranean
+55.0,Irregular,Heavy,Temperate,Asian
+30.0,Irregular,Heavy,Cold,Mediterranean
+38.0,Early Bird,Moderate,Temperate,Mediterranean
+54.0,Night Owl,Heavy,Cold,Mediterranean
+46.0,Early Bird,Moderate,Temperate,Mediterranean
+43.0,Night Owl,Moderate,Temperate,Mixed
+30.0,Irregular,Moderate,Cold,
+21.0,Irregular,Light,Cold,Asian
+38.0,Irregular,Light,,Asian
+66.0,Irregular,Moderate,Tropical,Asian
+49.0,Irregular,,Dry,Mediterranean
+22.0,,Light,Tropical,Mixed
+54.0,Night Owl,Heavy,Cold,Asian
+35.0,Irregular,Light,Temperate,Asian
+21.0,Night Owl,Light,Dry,Mediterranean
+28.0,Irregular,Moderate,Cold,
+21.0,Irregular,Heavy,Tropical,Mixed
+23.0,Early Bird,Light,Tropical,Mediterranean
+69.0,Night Owl,Light,Dry,Asian
+53.0,Early Bird,Moderate,Tropical,Mediterranean
+40.0,Night Owl,Light,Cold,Mediterranean
+30.0,Early Bird,Heavy,Tropical,Mediterranean
+63.0,Early Bird,Heavy,Cold,Mediterranean
+67.0,Early Bird,Heavy,Temperate,
+40.0,Night Owl,Heavy,Cold,Mixed
+28.0,Irregular,Light,Temperate,Mixed
+30.0,Irregular,Light,Temperate,Mixed
+54.0,Night Owl,Moderate,Tropical,Mediterranean
+35.0,Night Owl,Light,Tropical,Mediterranean
+31.0,Irregular,Moderate,Dry,Mixed
+50.0,Night Owl,Moderate,Temperate,Mediterranean
+47.0,Early Bird,Moderate,Temperate,Mediterranean
+19.0,,Light,Dry,Asian
+66.0,Night Owl,Heavy,Tropical,Asian
+36.0,Irregular,Light,Temperate,Mixed
+43.0,Night Owl,Moderate,Dry,Asian
+66.0,Night Owl,Light,Temperate,Mediterranean
+36.0,Early Bird,Moderate,Dry,Mediterranean
+21.0,Night Owl,Light,Temperate,Asian
+33.0,Irregular,Heavy,Tropical,Mediterranean
+42.0,Early Bird,Moderate,Cold,Mixed
+19.0,Night Owl,Light,Cold,Mediterranean
+27.0,,Moderate,Tropical,Asian
+66.0,,Heavy,Temperate,
+26.0,Irregular,Moderate,Temperate,Mixed
+41.0,Night Owl,Light,Cold,Asian
+40.0,Irregular,Light,Cold,Mediterranean
+,Early Bird,Light,Dry,Mediterranean
+,Irregular,Heavy,Dry,Mediterranean
+59.0,Night Owl,Heavy,Dry,Mixed
+51.0,Irregular,Heavy,Tropical,Asian
+50.0,Night Owl,Heavy,Tropical,Mediterranean
+26.0,Early Bird,Heavy,Cold,Asian
+25.0,Night Owl,Heavy,Dry,Asian
+57.0,Irregular,,Cold,Mediterranean
+26.0,Night Owl,Heavy,Cold,Mixed
+40.0,Irregular,Heavy,Cold,Asian
+31.0,Early Bird,Light,Tropical,Mediterranean
+45.0,Irregular,Light,Tropical,Mediterranean
+52.0,Night Owl,Moderate,Temperate,Mixed
+59.0,Irregular,Light,Temperate,Mixed
+49.0,Night Owl,Moderate,Cold,Mixed
+51.0,Irregular,,Dry,
+26.0,Night Owl,Heavy,Dry,Asian
+,Night Owl,Moderate,Cold,Mixed
+38.0,Night Owl,Moderate,Cold,Mixed
+55.0,Irregular,,Tropical,Mixed
+49.0,,Moderate,Cold,Mixed
+25.0,Early Bird,Moderate,Tropical,Asian
+,Night Owl,Moderate,,Mixed
+27.0,Night Owl,Light,Dry,Mixed
+,Irregular,Heavy,,Mediterranean
+37.0,Night Owl,Moderate,Dry,Mediterranean
+54.0,Early Bird,,Tropical,Mixed
+46.0,Early Bird,Heavy,Tropical,Asian
+48.0,Irregular,Heavy,Cold,
+27.0,Early Bird,Light,Dry,Mediterranean
+,Irregular,Moderate,Dry,Mediterranean
+28.0,Irregular,Light,Tropical,Mixed
+49.0,Night Owl,Heavy,Temperate,Asian
+30.0,,Light,Dry,Asian
+64.0,Early Bird,Moderate,Tropical,Asian
+66.0,Early Bird,,,Asian
+21.0,Night Owl,Moderate,Dry,Mediterranean
+59.0,,Heavy,Cold,Asian
+20.0,Irregular,Heavy,Temperate,Asian
+28.0,Irregular,Moderate,Cold,Asian
+57.0,Irregular,Light,Temperate,Asian
+47.0,Early Bird,Light,Cold,Mediterranean
+68.0,Irregular,Heavy,Dry,Mixed
+31.0,Night Owl,Heavy,Dry,Mediterranean
+25.0,Irregular,Moderate,Temperate,Asian
+63.0,Night Owl,Light,Temperate,Mixed
+45.0,Night Owl,,Dry,Mediterranean
+31.0,,Moderate,Temperate,Asian
+60.0,Irregular,Light,Tropical,Asian
+69.0,Night Owl,Light,Dry,Mediterranean
+69.0,Early Bird,Heavy,Tropical,
+47.0,Irregular,Light,Temperate,Asian
+31.0,Irregular,Heavy,Tropical,Asian
+50.0,Irregular,Light,Cold,Asian
+64.0,Irregular,Moderate,Cold,Mediterranean
+,Night Owl,Heavy,Cold,Mediterranean
+46.0,Early Bird,Light,Cold,Mixed
+56.0,Night Owl,Moderate,Temperate,Mixed
+67.0,Irregular,Light,Dry,Mediterranean
+27.0,Night Owl,Light,Tropical,Mediterranean
+18.0,Irregular,Heavy,Tropical,Mixed
+,Early Bird,Moderate,Temperate,Mixed
+36.0,Night Owl,Heavy,Temperate,Mediterranean
+20.0,Early Bird,Moderate,Tropical,Mixed
+56.0,Early Bird,Light,Dry,Asian
+23.0,Night Owl,Heavy,Cold,Mixed
+64.0,,Heavy,Temperate,Mediterranean
+,Early Bird,Moderate,Tropical,Mixed
+,,Light,Tropical,
+35.0,Early Bird,Moderate,Temperate,Asian
+40.0,Night Owl,Moderate,Dry,Mixed
+39.0,Night Owl,Moderate,,Mixed
+52.0,Early Bird,Moderate,,Mediterranean
+25.0,Early Bird,,Temperate,Mediterranean
+32.0,Early Bird,Light,Cold,Mixed
+21.0,,Light,Cold,Mixed
+37.0,Early Bird,Heavy,Dry,Mediterranean
+36.0,Night Owl,Light,Dry,Asian
+22.0,Night Owl,Light,Tropical,
+49.0,Irregular,Moderate,Temperate,Mediterranean
+19.0,Irregular,Light,Dry,Mediterranean
+26.0,Irregular,Moderate,Tropical,Mediterranean
+64.0,Irregular,Heavy,Temperate,
+45.0,Early Bird,Heavy,Cold,Asian
+62.0,Night Owl,Heavy,Tropical,Asian
+25.0,Early Bird,Heavy,Dry,Mediterranean
+42.0,Irregular,Heavy,Dry,Mixed
+34.0,Night Owl,Moderate,Cold,Mixed
+20.0,Night Owl,Moderate,Cold,Mixed
+36.0,Early Bird,Moderate,Tropical,Mediterranean
+,Early Bird,,Cold,
+57.0,Irregular,Moderate,Temperate,Asian
+25.0,Night Owl,Moderate,Dry,Mediterranean
+64.0,Early Bird,Moderate,Cold,Mediterranean
+55.0,Night Owl,Moderate,,Mediterranean
+,Night Owl,Moderate,Tropical,
+33.0,Night Owl,Moderate,Dry,Mediterranean
+18.0,Night Owl,,Temperate,Asian
+22.0,Irregular,Light,Temperate,Asian
+53.0,Early Bird,Moderate,Temperate,Mediterranean
+39.0,Night Owl,Moderate,Tropical,Mixed
+18.0,Night Owl,Light,Dry,Asian
+67.0,Irregular,Moderate,Cold,Mixed
+40.0,Night Owl,Heavy,Temperate,Mediterranean
+53.0,Early Bird,Light,Dry,Asian
+39.0,Early Bird,Light,Tropical,Mixed
+33.0,Night Owl,Light,Cold,Mediterranean
+49.0,,Heavy,Temperate,Asian
+55.0,Night Owl,Heavy,Tropical,Mediterranean
+41.0,Night Owl,Light,Tropical,Mixed
+23.0,Irregular,Moderate,Temperate,
+66.0,Night Owl,Heavy,Temperate,Asian
+42.0,Irregular,Moderate,Cold,Asian
+22.0,,,Tropical,Mediterranean
+47.0,Irregular,Moderate,Cold,Mediterranean
+51.0,Irregular,Heavy,Dry,Mediterranean
+28.0,Night Owl,Moderate,Dry,Mediterranean
+,Early Bird,Moderate,Temperate,Asian
+44.0,Irregular,Light,Dry,
+49.0,Irregular,Light,Tropical,Mediterranean
+22.0,Irregular,Heavy,Dry,Mixed
+66.0,Irregular,Moderate,Cold,Asian
+49.0,Night Owl,,Tropical,Mixed
+,Night Owl,Heavy,Temperate,Asian
+58.0,Early Bird,Moderate,Tropical,Mixed
+21.0,Irregular,Light,Temperate,Mediterranean
+40.0,Night Owl,Moderate,Dry,Asian
+68.0,Night Owl,Heavy,Cold,Mediterranean
+54.0,Irregular,Light,Tropical,Mediterranean
+50.0,Early Bird,Heavy,,Asian
+25.0,Irregular,Light,Tropical,Asian
+69.0,Night Owl,,Dry,Mediterranean
+38.0,Early Bird,Light,Cold,
+53.0,Night Owl,Moderate,Temperate,Mediterranean
+,Night Owl,Heavy,Cold,Mediterranean
+36.0,Irregular,Heavy,Cold,Asian
+63.0,Early Bird,Heavy,Tropical,Mixed
+,Irregular,Light,Dry,
+56.0,Early Bird,Light,Tropical,Mediterranean
+39.0,,Heavy,Cold,Asian
+51.0,Night Owl,Moderate,Dry,Asian
+68.0,Night Owl,Light,,Asian
+69.0,Irregular,,Cold,Mediterranean
+41.0,Irregular,Heavy,Cold,Asian
+19.0,Early Bird,Heavy,Cold,Mediterranean
+43.0,Irregular,Light,Cold,Asian
+30.0,Night Owl,Moderate,Temperate,Asian
+31.0,Irregular,Moderate,Cold,Mixed
+44.0,Irregular,Heavy,Dry,Asian
+43.0,,Light,Temperate,Mediterranean
+57.0,Early Bird,Heavy,Cold,Asian
+68.0,Early Bird,Heavy,Cold,Mediterranean
+24.0,Night Owl,Heavy,Temperate,Mediterranean
+,Early Bird,Heavy,Cold,Asian
+61.0,Early Bird,,Dry,Asian
+59.0,Early Bird,Light,Dry,Mixed
+29.0,Irregular,Moderate,Tropical,Mediterranean
+18.0,Early Bird,Moderate,Tropical,Asian
+68.0,Night Owl,Light,Cold,Mediterranean
+59.0,Night Owl,Heavy,Temperate,Mixed
+39.0,Irregular,Light,Temperate,Mixed
+53.0,Irregular,Heavy,Temperate,Mediterranean
+32.0,Early Bird,Moderate,Dry,Mediterranean
+,Early Bird,Heavy,Temperate,Mediterranean
+35.0,Early Bird,Heavy,Dry,Mediterranean
+53.0,Early Bird,Heavy,Cold,Mixed
+58.0,Night Owl,Heavy,Dry,Asian
+,,Heavy,Tropical,Mediterranean
+53.0,Irregular,Moderate,Temperate,Mixed
+55.0,Early Bird,Light,Temperate,
+58.0,Early Bird,Light,Cold,Mixed
+44.0,Night Owl,Light,Cold,Mediterranean
+35.0,Early Bird,Heavy,,Mediterranean
+39.0,Irregular,Moderate,Temperate,Asian
+38.0,Irregular,Heavy,Tropical,Asian
+41.0,Irregular,Moderate,Temperate,Asian
+65.0,Irregular,Moderate,Dry,Asian
+42.0,Night Owl,Heavy,Cold,Mixed
+35.0,Irregular,Light,Dry,Mediterranean
+60.0,Irregular,Moderate,Dry,
+67.0,Early Bird,Light,Tropical,Asian
+47.0,Night Owl,,Temperate,Mediterranean
+49.0,Night Owl,Light,Temperate,Mediterranean
+,Early Bird,Light,Cold,Mixed
+23.0,Early Bird,Heavy,Tropical,Mixed
+51.0,Irregular,Heavy,Tropical,Mediterranean
+30.0,Early Bird,Heavy,Cold,
+23.0,Night Owl,,Cold,Mixed
+49.0,Early Bird,Heavy,Temperate,Asian
+31.0,Early Bird,Heavy,Cold,Asian
+67.0,Night Owl,,Tropical,Mixed
+65.0,Early Bird,Light,Cold,Mediterranean
+31.0,Irregular,Light,Dry,Mediterranean
+23.0,Night Owl,Light,Temperate,
+25.0,Night Owl,Light,Cold,Mediterranean
+67.0,Irregular,Light,Dry,Asian
+48.0,Night Owl,Heavy,Dry,Mixed
+,Night Owl,,Temperate,Mediterranean
+65.0,Night Owl,Heavy,Cold,Mediterranean
+44.0,Irregular,Heavy,Cold,Asian
+53.0,Early Bird,Heavy,Tropical,Mediterranean
+50.0,Irregular,Light,Tropical,Mixed
+57.0,Irregular,Heavy,Tropical,Mixed
+27.0,Early Bird,Moderate,Cold,Mediterranean
+32.0,Early Bird,Moderate,Cold,Asian
+63.0,Irregular,Heavy,Dry,Mixed
+,Early Bird,Heavy,Temperate,Mediterranean
+,Night Owl,,,Mediterranean
+40.0,,Heavy,,Mediterranean
+69.0,Night Owl,Moderate,Temperate,Asian
+62.0,Early Bird,Moderate,Tropical,Mediterranean
+,Early Bird,Heavy,,Mediterranean
+43.0,Night Owl,Moderate,Cold,
+39.0,Irregular,,Dry,Mediterranean
+63.0,Irregular,Moderate,Tropical,Mediterranean
+61.0,Irregular,,Tropical,Mixed
+24.0,Night Owl,Light,Cold,Mixed
+59.0,,Moderate,Temperate,Asian
+31.0,Irregular,Heavy,Cold,Asian
+56.0,Early Bird,Light,Dry,Mixed
+30.0,Night Owl,Moderate,Temperate,Mixed
+68.0,Early Bird,Heavy,Temperate,Mixed
+41.0,Night Owl,Heavy,Temperate,Asian
+44.0,Irregular,Heavy,Tropical,Mediterranean
+49.0,Early Bird,Light,Tropical,Mediterranean
+27.0,Early Bird,Moderate,Dry,Mediterranean
+36.0,Irregular,Light,Dry,Mixed
+46.0,Early Bird,Light,,Mediterranean
+37.0,Early Bird,,Dry,Asian
+25.0,Early Bird,Moderate,Tropical,Mixed
+53.0,,Moderate,Tropical,Mediterranean
+46.0,Irregular,Light,Dry,Mediterranean
+62.0,Night Owl,Moderate,Tropical,Mixed
+21.0,Night Owl,Moderate,Dry,
+57.0,,Light,Temperate,Asian
+18.0,Night Owl,Moderate,Cold,Mediterranean
+49.0,Early Bird,Light,Cold,Mediterranean
+67.0,Irregular,Moderate,Dry,Asian
+22.0,Night Owl,Moderate,Dry,Mediterranean
+,Night Owl,Light,Cold,Mixed
+67.0,Irregular,Light,Temperate,Mixed
+58.0,Early Bird,Moderate,Dry,Mediterranean
+62.0,,Light,Dry,Asian
+63.0,Irregular,Moderate,Tropical,Mixed
+50.0,Night Owl,Light,,Mediterranean
+18.0,Irregular,Light,Cold,
+51.0,Early Bird,Heavy,Dry,Mixed
+38.0,Night Owl,Moderate,Dry,Mixed
+28.0,Early Bird,Moderate,Tropical,Asian
+44.0,Early Bird,Light,Cold,Asian
+48.0,Night Owl,Moderate,Cold,Mixed
+42.0,Irregular,Light,Cold,Asian
+62.0,Early Bird,Light,Temperate,Mixed
+69.0,Early Bird,,Temperate,Mixed
+67.0,,Moderate,,Mediterranean
+67.0,Early Bird,Light,Temperate,Asian
+40.0,Night Owl,Light,Temperate,Mixed
+22.0,Early Bird,Moderate,Dry,Mediterranean
+63.0,Night Owl,Moderate,,Mediterranean
+57.0,Early Bird,Light,Tropical,Mixed
+55.0,Early Bird,Light,Dry,Mediterranean
+25.0,Night Owl,Moderate,Cold,Mixed
+,Early Bird,Light,Dry,Asian
+44.0,Irregular,Light,Dry,Mediterranean
+57.0,Irregular,Moderate,Tropical,Mediterranean
+,Early Bird,Light,Dry,Mixed
+47.0,Night Owl,Light,Tropical,Asian
+37.0,,Light,Tropical,Mixed
+20.0,Early Bird,Heavy,Tropical,Mixed
+59.0,Night Owl,Light,Dry,
+19.0,,Light,Dry,Mediterranean
+36.0,Irregular,Heavy,Dry,Mediterranean
+18.0,,,,Mixed
+,Early Bird,Light,Cold,Mixed
+59.0,Night Owl,Heavy,Temperate,
+24.0,Early Bird,Light,Cold,Mediterranean
+57.0,Irregular,,Temperate,Mediterranean
+34.0,Early Bird,Light,Dry,Asian
+33.0,Night Owl,Moderate,Dry,Asian
+38.0,Irregular,Light,Dry,Mixed
+34.0,Night Owl,Light,Cold,Mediterranean
+65.0,Early Bird,Heavy,Cold,Mediterranean
+18.0,Night Owl,Heavy,Tropical,
+40.0,Irregular,Heavy,Temperate,Mixed
+42.0,Early Bird,,Temperate,Mixed
+61.0,Night Owl,Moderate,Temperate,Mixed
+43.0,Night Owl,Heavy,Dry,Mediterranean
+,Early Bird,Heavy,Dry,
+27.0,Early Bird,Heavy,Temperate,Mediterranean
+,,Heavy,Dry,
+36.0,Irregular,Moderate,Cold,Mixed
+68.0,Irregular,Heavy,Cold,Mediterranean
+40.0,Night Owl,Heavy,,Mixed
+,Night Owl,,Dry,Asian
+28.0,Night Owl,Moderate,Dry,Mixed
+56.0,,Moderate,Tropical,Asian
+61.0,Night Owl,Heavy,Temperate,Mediterranean
+28.0,Early Bird,,Cold,Mixed
+34.0,Early Bird,,Cold,Asian
+41.0,Early Bird,Light,,Mixed
+31.0,Irregular,Heavy,Cold,Mediterranean
+20.0,Early Bird,Moderate,Dry,Asian
+63.0,Early Bird,Light,Tropical,Mixed
+29.0,Early Bird,Moderate,Dry,Mixed
+66.0,Irregular,Light,Tropical,Asian
+46.0,Night Owl,Heavy,Cold,Mixed
+49.0,Early Bird,Light,Temperate,Asian
+36.0,Night Owl,Moderate,Tropical,Mediterranean
+51.0,Early Bird,Light,Dry,Asian
+53.0,Early Bird,Light,Tropical,Asian
+41.0,Irregular,Heavy,Dry,Mixed
+,Irregular,Light,Tropical,Mixed
+37.0,Irregular,Moderate,,Mediterranean
+21.0,Night Owl,Moderate,Cold,Mixed
+45.0,Irregular,,Cold,Mixed
+62.0,,Moderate,Dry,Mediterranean
+49.0,Night Owl,Moderate,Cold,Mediterranean
+38.0,Early Bird,Light,Tropical,Asian
+52.0,Early Bird,Heavy,,Mixed
+61.0,Early Bird,Moderate,Tropical,Mixed
+43.0,Early Bird,,Tropical,Mixed
+37.0,Early Bird,Heavy,Cold,Asian
+20.0,Irregular,Light,Dry,
+59.0,Night Owl,Light,Dry,Mixed
+32.0,Early Bird,Moderate,Tropical,Mediterranean
+32.0,Early Bird,Heavy,Temperate,Mediterranean
+51.0,Early Bird,Moderate,Temperate,Asian
+38.0,,,Tropical,Mixed
+23.0,Night Owl,Light,Temperate,Asian
+25.0,Early Bird,Light,Cold,Asian
+57.0,Irregular,Light,Tropical,Mixed
+41.0,Early Bird,Heavy,Dry,Mediterranean
+57.0,Night Owl,Heavy,Dry,Mediterranean
+61.0,Irregular,Moderate,Dry,
+34.0,Irregular,Moderate,Tropical,Mixed
+33.0,Irregular,Heavy,Cold,Mediterranean
+39.0,Night Owl,Heavy,Tropical,Mediterranean
+24.0,Early Bird,Heavy,Dry,Mediterranean
+24.0,Early Bird,Light,Dry,
+50.0,Early Bird,Heavy,Cold,Mediterranean
+39.0,Irregular,Light,Temperate,
+69.0,Night Owl,Light,Dry,Mixed
+22.0,Early Bird,Heavy,Tropical,Mixed
+25.0,Early Bird,Light,Cold,Mixed
+56.0,Irregular,Light,Cold,Asian
+41.0,Irregular,Light,Cold,Asian
+56.0,Irregular,Heavy,Cold,Asian
+,Early Bird,Heavy,Cold,
+46.0,Early Bird,Light,Temperate,Mediterranean
+62.0,Night Owl,Moderate,Temperate,Mixed
+41.0,Irregular,Heavy,Tropical,Asian
+50.0,Irregular,Light,Temperate,Mixed
+48.0,Irregular,Moderate,Cold,Asian
+,Night Owl,Light,Temperate,
+31.0,Irregular,Moderate,Tropical,Asian
+39.0,Night Owl,Heavy,Dry,Mediterranean
+38.0,Night Owl,Light,Cold,Mediterranean
+68.0,Early Bird,,Cold,Asian
+54.0,Irregular,Light,Temperate,Mixed
+,Irregular,Moderate,Temperate,Mixed
+30.0,,Moderate,Cold,Asian
+32.0,Early Bird,Light,Temperate,Mediterranean
+55.0,Irregular,Heavy,Dry,
+23.0,Night Owl,Light,,Mediterranean
+59.0,Irregular,Heavy,Cold,Asian
+49.0,Night Owl,Moderate,Cold,Asian
+54.0,Irregular,,Cold,
+25.0,Night Owl,Light,Tropical,Asian
+61.0,Early Bird,Heavy,Dry,Mixed
+22.0,Night Owl,Heavy,Tropical,Mixed
+32.0,Early Bird,Heavy,Dry,Mediterranean
+43.0,Irregular,Light,Cold,Mediterranean
+38.0,Early Bird,Moderate,Cold,Mixed
+62.0,Irregular,Moderate,Dry,Mediterranean
+65.0,Irregular,Heavy,Temperate,Mixed
+56.0,Irregular,Heavy,Dry,Asian
+,Irregular,,,Mixed
+,,Moderate,Cold,Mixed
+62.0,Early Bird,Heavy,Dry,Mixed
+20.0,Night Owl,Moderate,Tropical,Asian
+28.0,Irregular,Moderate,Tropical,Mediterranean
+,Early Bird,Heavy,Tropical,Mediterranean
+61.0,Night Owl,Heavy,Tropical,Mediterranean
+28.0,Irregular,Light,,Asian
+62.0,Night Owl,Heavy,Cold,Mixed
+55.0,,Moderate,Dry,Mediterranean
+68.0,Night Owl,,Tropical,Mixed
+21.0,Early Bird,Moderate,Cold,Mixed
+,Early Bird,Light,Tropical,Asian
+41.0,Night Owl,Heavy,Dry,Asian
+54.0,Night Owl,Light,Dry,Mixed
+68.0,Night Owl,Heavy,,Asian
+62.0,Night Owl,Heavy,Tropical,Mixed
+24.0,Night Owl,Moderate,Tropical,Mediterranean
+69.0,Irregular,Light,Temperate,
+31.0,Early Bird,Moderate,Temperate,Mediterranean
+21.0,Irregular,Light,Cold,Mediterranean
+32.0,Irregular,Heavy,Temperate,Mixed
+40.0,Irregular,Moderate,Dry,Mediterranean
+68.0,Night Owl,Moderate,Temperate,
+52.0,Night Owl,Moderate,,Mediterranean
+30.0,Irregular,Moderate,Temperate,Mixed
+45.0,Night Owl,Light,Dry,Mixed
+64.0,Irregular,Light,Tropical,Mixed
+35.0,Night Owl,,Cold,Mediterranean
+54.0,Early Bird,Heavy,Dry,Asian
+28.0,Early Bird,Light,Dry,Asian
+63.0,Night Owl,Moderate,Dry,Asian
+62.0,Night Owl,Heavy,Cold,Asian
+69.0,Night Owl,Heavy,Temperate,Mediterranean
+51.0,Early Bird,Moderate,Cold,Mediterranean
+65.0,Irregular,Moderate,Dry,Mediterranean
+24.0,Night Owl,Moderate,Temperate,
+25.0,Early Bird,Light,Dry,Mixed
+36.0,Early Bird,,Cold,Mediterranean
+61.0,Night Owl,Light,Temperate,Asian
+35.0,Irregular,,Dry,Asian
+65.0,Night Owl,Heavy,Tropical,Asian
+39.0,Irregular,,Cold,Asian
+57.0,Early Bird,Light,Dry,Mediterranean
+,Early Bird,Heavy,Tropical,Mediterranean
+63.0,Night Owl,Moderate,Cold,Mediterranean
+43.0,Irregular,Heavy,Tropical,Mediterranean
+34.0,Early Bird,Heavy,Dry,Asian
+22.0,Early Bird,Heavy,Tropical,Asian
+18.0,Night Owl,Heavy,Cold,Asian
+68.0,Irregular,Moderate,Cold,Mediterranean
+69.0,Early Bird,Light,Dry,Mixed
+25.0,Night Owl,Moderate,Tropical,Mediterranean
+61.0,Early Bird,Light,Temperate,Asian
+55.0,Night Owl,,Tropical,Mixed
+43.0,Early Bird,,Dry,Mediterranean
+38.0,Night Owl,Light,Tropical,Asian
+31.0,Irregular,Light,Dry,Mixed
+21.0,Night Owl,Heavy,Cold,Mediterranean
+,Irregular,Light,Cold,Mediterranean
+26.0,Early Bird,,Tropical,Mediterranean
+31.0,Night Owl,Moderate,,Mixed
+37.0,,Moderate,Tropical,
+46.0,Night Owl,Heavy,Tropical,Mixed
+35.0,Early Bird,Heavy,Dry,Asian
+51.0,Early Bird,,Tropical,Asian
+,Early Bird,Heavy,Cold,Mediterranean
+52.0,Irregular,,Temperate,Asian
+38.0,Early Bird,Heavy,Tropical,Mediterranean
+,Early Bird,Light,,Mediterranean
+64.0,Night Owl,,Cold,
+28.0,Night Owl,Light,Tropical,Mediterranean
+25.0,Irregular,Heavy,Tropical,Mediterranean
+64.0,Night Owl,Moderate,Tropical,Mediterranean
+36.0,Irregular,Moderate,Temperate,
+24.0,Early Bird,Moderate,Temperate,Mediterranean
+43.0,Irregular,Light,Tropical,Mediterranean
+,Irregular,Light,Dry,Mediterranean
+66.0,Night Owl,Moderate,Dry,
+22.0,,Heavy,Dry,Mediterranean
+,Irregular,Heavy,Temperate,Mixed
+65.0,Irregular,,Dry,Mediterranean
+25.0,Early Bird,Heavy,Temperate,Asian
+65.0,Early Bird,Heavy,Dry,Mediterranean
+66.0,Night Owl,Light,Dry,Mediterranean
+34.0,Night Owl,Light,Cold,Asian
+,Early Bird,Heavy,Tropical,Mixed
+,Irregular,Heavy,Tropical,Asian
+51.0,,Light,Cold,Mediterranean
+33.0,Irregular,Light,Tropical,Mixed
+58.0,Night Owl,Light,Temperate,Mediterranean
+60.0,Early Bird,Light,Dry,Asian
+30.0,Early Bird,Moderate,Dry,Mixed
+58.0,Early Bird,Moderate,Tropical,Asian
+55.0,Night Owl,Light,Cold,Mixed
+18.0,Night Owl,Heavy,Cold,Mixed
+19.0,Irregular,Moderate,,Asian
+49.0,Irregular,Heavy,Dry,Asian
+61.0,Early Bird,Light,Cold,Mediterranean
+24.0,Early Bird,Heavy,Cold,Asian
+68.0,Night Owl,Light,Tropical,Asian
+34.0,,,Tropical,Mixed
+63.0,Night Owl,Light,Cold,Mixed
+42.0,Irregular,Moderate,Dry,Mediterranean
+36.0,,Moderate,Dry,Mediterranean
+49.0,Night Owl,Light,Cold,Mediterranean
+62.0,Night Owl,Heavy,Temperate,Mediterranean
+32.0,Irregular,Heavy,Cold,Asian
+38.0,Early Bird,Moderate,Dry,Mixed
+27.0,Irregular,Heavy,Temperate,Mediterranean
+27.0,Irregular,Light,Dry,Asian
+42.0,,Light,Temperate,Asian
+31.0,Early Bird,Moderate,Dry,Asian
+28.0,Irregular,Light,Dry,Mixed
+58.0,Irregular,Heavy,Cold,Asian
+63.0,Early Bird,Heavy,Cold,Asian
+52.0,Night Owl,Moderate,Temperate,Asian
+33.0,Night Owl,Moderate,Temperate,Mediterranean
+,Irregular,Light,Cold,Asian
+52.0,Irregular,Light,,Mediterranean
+59.0,Night Owl,Heavy,Dry,
+46.0,Irregular,Heavy,Temperate,Asian
+51.0,Night Owl,Heavy,Dry,
+18.0,Early Bird,Moderate,Tropical,Mixed
+33.0,Early Bird,Moderate,Tropical,Mediterranean
+25.0,Night Owl,Heavy,Tropical,Asian
+64.0,Early Bird,Light,Dry,Mediterranean
+,Irregular,,Cold,Mediterranean
+40.0,Early Bird,Moderate,Tropical,Asian
+48.0,Early Bird,Moderate,Tropical,Mediterranean
+61.0,Early Bird,Light,Temperate,Mediterranean
+26.0,Early Bird,Moderate,Temperate,Asian
+44.0,Early Bird,Light,Tropical,Mixed
+39.0,Early Bird,Heavy,Temperate,Asian
+63.0,Irregular,Moderate,Dry,Asian
+62.0,Night Owl,Heavy,Dry,Mediterranean
+43.0,Irregular,Light,Dry,Mixed
+,Night Owl,Moderate,Temperate,Asian
+46.0,Early Bird,Light,Temperate,Mixed
+18.0,Night Owl,Light,Temperate,Mixed
+31.0,Night Owl,Heavy,Tropical,Mixed
+42.0,Night Owl,,Tropical,Asian
+32.0,Irregular,Moderate,Cold,Asian
+21.0,,Heavy,Temperate,Mixed
+33.0,Night Owl,Light,Dry,Mediterranean
+27.0,Early Bird,Heavy,Cold,Asian
+53.0,Night Owl,Light,,Mixed
+53.0,Night Owl,,Temperate,Mixed
+20.0,Night Owl,Light,,
+55.0,Night Owl,,Temperate,Mediterranean
+18.0,Irregular,Heavy,Cold,Mediterranean
+26.0,Irregular,Heavy,Dry,Mixed
+36.0,Night Owl,Moderate,Dry,Mixed
+45.0,Night Owl,Light,Cold,Mixed
+21.0,Early Bird,,Temperate,Asian
+28.0,Night Owl,Light,Temperate,
+49.0,Night Owl,Heavy,Dry,Asian
+21.0,Early Bird,Heavy,Temperate,Mixed
+29.0,Irregular,Moderate,Dry,Mediterranean
+66.0,Irregular,Moderate,Tropical,
+44.0,Irregular,Light,,Mixed
+65.0,Early Bird,Light,Dry,Asian
+,Irregular,Heavy,,Asian
+30.0,Night Owl,Heavy,Tropical,Mixed
+20.0,Irregular,Heavy,Tropical,Asian
+58.0,Night Owl,Moderate,Temperate,Mixed
+51.0,Early Bird,Moderate,Dry,Asian
+37.0,Irregular,,Dry,Mediterranean
+20.0,Early Bird,Light,Cold,
+41.0,Irregular,Moderate,Dry,Asian
+58.0,Irregular,Heavy,Cold,
+57.0,Early Bird,Heavy,Tropical,Asian
+49.0,Night Owl,Heavy,Cold,Mediterranean
+33.0,Irregular,Light,Cold,Mixed
+57.0,Irregular,Moderate,Cold,Mediterranean
+34.0,Night Owl,Moderate,Temperate,Mediterranean
+,Night Owl,Moderate,Cold,Mixed
+50.0,,Moderate,Tropical,Mixed
+44.0,Night Owl,Light,Tropical,Mixed
+47.0,Irregular,Light,Dry,Asian
+62.0,Night Owl,Light,Cold,Mixed
+39.0,Early Bird,Heavy,Dry,Asian
+46.0,Early Bird,Moderate,Dry,Mixed
+59.0,Irregular,Heavy,,Asian
+46.0,Early Bird,Heavy,Tropical,Mixed
+,Irregular,Moderate,,Mixed
+53.0,Early Bird,Heavy,Temperate,Mixed
+24.0,Night Owl,Moderate,Cold,Asian
+40.0,Early Bird,Light,Tropical,Asian
+21.0,Night Owl,Light,Cold,Asian
+46.0,Early Bird,,Cold,Mixed
+54.0,Irregular,Light,Temperate,
+36.0,Irregular,Moderate,Dry,Mixed
+52.0,,Moderate,Dry,Asian
+62.0,Early Bird,Light,Cold,Mixed
+38.0,Early Bird,Heavy,Temperate,Mediterranean
+56.0,Night Owl,Light,Temperate,Asian
+61.0,Early Bird,,Dry,Mediterranean
+19.0,Early Bird,Light,Temperate,Mixed
+69.0,Night Owl,Light,Tropical,Mixed
+67.0,Early Bird,Heavy,Dry,Mediterranean
+40.0,Irregular,Heavy,Dry,
+33.0,Irregular,Moderate,,Mediterranean
+39.0,,Moderate,Temperate,Mediterranean
+24.0,Early Bird,Moderate,Tropical,Asian
+48.0,Irregular,Light,Temperate,Mediterranean
+59.0,Irregular,Moderate,Temperate,Mediterranean
+48.0,Night Owl,Light,Tropical,Mediterranean
+25.0,Irregular,,Tropical,Asian
+50.0,Early Bird,Moderate,Cold,Mixed
+,Irregular,Light,Temperate,Mixed
+20.0,Night Owl,Heavy,Tropical,Mixed
+64.0,,Moderate,Temperate,Mixed
+41.0,Irregular,Light,Cold,Mediterranean
+24.0,Night Owl,Heavy,Tropical,Mixed
+28.0,,Light,Temperate,
+43.0,Early Bird,,Temperate,Mixed
